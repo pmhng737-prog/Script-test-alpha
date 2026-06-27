@@ -1,4 +1,4 @@
--- [[ ROBLOX FPS ADVANCED PENTEST SUITE v4.5 ]]
+-- [[ ROBLOX FPS ADVANCED PENTEST SUITE v4.5 This script still has some errors|This script was not written by me]]
 -- Bản vá lỗi UI, chuẩn hóa toán tử ưu tiên, tích hợp Ring Buffer cho Replay và Wrapper an toàn cho Drawing API.
 
 local Players = game:GetService("Players")
@@ -38,7 +38,7 @@ addUICorner(MainFrame, 6)
 
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, 0, 0, 45)
-Title.Text = "  FPS PENTEST SUITE v4.5 [ENTERPRISE PATCHED]"
+Title.Text = "  FPS PENTEST SUITE v4.5 [This script still has some errors|This script was not written by me]"
 Title.TextColor3 = Color3.fromRGB(240, 240, 245)
 Title.TextXAlignment = Enum.TextXAlignment.Left
 Title.Font = Enum.Font.SourceSansBold Title.TextSize = 14
